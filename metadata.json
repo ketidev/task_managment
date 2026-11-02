@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow - Modern Task Management",
+  "description": "Production-grade responsive task management application built with React 19, Express, and MongoDB document persistence, featuring Kanban, List, Timeline, and Analytics views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,1976 @@
+{
+  "tasks": [
+    {
+      "_id": "task_001",
+      "title": "Test homepage conversion rate",
+      "description": "Run multi-variant A/B tests on primary value proposition and evaluate sign-up checkout funnel.",
+      "status": "todo",
+      "category": "QA",
+      "priority": "medium",
+      "dueDate": "2026-11-06",
+      "projectId": "proj_smart_dashboard",
+      "assigneeId": "user_elena",
+      "assigneeIds": [
+        "user_elena"
+      ],
+      "tags": [
+        "QA",
+        "Analytics"
+      ],
+      "checklist": [
+        {
+          "id": "chk_001_0",
+          "text": "Verify conversion metric scenario 1",
+          "completed": true
+        },
+        {
+          "id": "chk_001_1",
+          "text": "Verify conversion metric scenario 2",
+          "completed": true
+        },
+        {
+          "id": "chk_001_2",
+          "text": "Verify conversion metric scenario 3",
+          "completed": true
+        },
+        {
+          "id": "chk_001_3",
+          "text": "Verify conversion metric scenario 4",
+          "completed": false
+        },
+        {
+          "id": "chk_001_4",
+          "text": "Verify conversion metric scenario 5",
+          "completed": false
+        },
+        {
+          "id": "chk_001_5",
+          "text": "Verify conversion metric scenario 6",
+          "completed": false
+        },
+        {
+          "id": "chk_001_6",
+          "text": "Verify conversion metric scenario 7",
+          "completed": false
+        },
+        {
+          "id": "chk_001_7",
+          "text": "Verify conversion metric scenario 8",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 12,
+      "commentsCount": 1,
+      "order": 0,
+      "createdAt": "2026-10-28T10:00:00.000Z",
+      "updatedAt": "2026-11-01T15:20:00.000Z"
+    },
+    {
+      "_id": "task_002",
+      "title": "Database migration script validation",
+      "description": "Validate zero-downtime MongoDB schema migrations and verify backward compatibility index constraints.",
+      "status": "todo",
+      "category": "Backend",
+      "priority": "high",
+      "dueDate": "2026-11-05",
+      "projectId": "proj_smart_dashboard",
+      "assigneeId": "user_alex",
+      "assigneeIds": [
+        "user_alex",
+        "user_marcus"
+      ],
+      "tags": [
+        "Backend",
+        "MongoDB"
+      ],
+      "checklist": [
+        {
+          "id": "chk_002_0",
+          "text": "Run migration dry run 1",
+          "completed": true
+        },
+        {
+          "id": "chk_002_1",
+          "text": "Run migration dry run 2",
+          "completed": false
+        },
+        {
+          "id": "chk_002_2",
+          "text": "Run migration dry run 3",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 8,
+      "commentsCount": 2,
+      "order": 1,
+      "createdAt": "2026-10-29T11:15:00.000Z",
+      "updatedAt": "2026-11-02T02:10:00.000Z"
+    },
+    {
+      "_id": "task_003",
+      "title": "Sketch logo concepts",
+      "description": "Explore geometric vector glyphs and typography lockups for brand identity refresh.",
+      "status": "in_progress",
+      "category": "Design",
+      "priority": "high",
+      "dueDate": "2026-11-03",
+      "projectId": "proj_smart_dashboard",
+      "assigneeId": "user_brilyan",
+      "assigneeIds": [
+        "user_brilyan",
+        "user_elena",
+        "user_marcus"
+      ],
+      "tags": [
+        "Design",
+        "Branding"
+      ],
+      "checklist": [
+        {
+          "id": "chk_003_0",
+          "text": "Draft vector mark exploration 1",
+          "completed": true
+        },
+        {
+          "id": "chk_003_1",
+          "text": "Draft vector mark exploration 2",
+          "completed": true
+        },
+        {
+          "id": "chk_003_2",
+          "text": "Draft vector mark exploration 3",
+          "completed": true
+        },
+        {
+          "id": "chk_003_3",
+          "text": "Draft vector mark exploration 4",
+          "completed": true
+        },
+        {
+          "id": "chk_003_4",
+          "text": "Draft vector mark exploration 5",
+          "completed": false
+        },
+        {
+          "id": "chk_003_5",
+          "text": "Draft vector mark exploration 6",
+          "completed": false
+        },
+        {
+          "id": "chk_003_6",
+          "text": "Draft vector mark exploration 7",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 14,
+      "commentsCount": 1,
+      "order": 0,
+      "createdAt": "2026-10-27T08:30:00.000Z",
+      "updatedAt": "2026-11-01T17:00:00.000Z"
+    },
+    {
+      "_id": "task_004",
+      "title": "Create social media ads for campaign",
+      "description": "Design responsive marketing banners for Twitter, LinkedIn, and product newsletter banners.",
+      "status": "in_progress",
+      "category": "Design",
+      "priority": "medium",
+      "dueDate": "2026-11-08",
+      "projectId": "proj_smart_dashboard",
+      "assigneeId": "user_brilyan",
+      "assigneeIds": [
+        "user_brilyan",
+        "user_alex"
+      ],
+      "tags": [
+        "Design",
+        "Marketing"
+      ],
+      "checklist": [
+        {
+          "id": "chk_004_0",
+          "text": "Export retina banner assets 1",
+          "completed": true
+        },
+        {
+          "id": "chk_004_1",
+          "text": "Export retina banner assets 2",
+          "completed": true
+        },
+        {
+          "id": "chk_004_2",
+          "text": "Export retina banner assets 3",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 6,
+      "commentsCount": 0,
+      "order": 1,
+      "createdAt": "2026-10-31T09:00:00.000Z",
+      "updatedAt": "2026-10-31T09:00:00.000Z"
+    },
+    {
+      "_id": "task_005",
+      "title": "Revise privacy policy agreements",
+      "description": "Audit GDPR, CCPA disclosures and cookie consent agreements with legal counsel.",
+      "status": "in_progress",
+      "category": "Legal",
+      "priority": "low",
+      "dueDate": "2026-11-06",
+      "projectId": "proj_smart_dashboard",
+      "assigneeId": "user_marcus",
+      "assigneeIds": [
+        "user_marcus"
+      ],
+      "tags": [
+        "Legal",
+        "Compliance"
+      ],
+      "checklist": [
+        {
+          "id": "chk_005_0",
+          "text": "Legal clause compliance review 1",
+          "completed": true
+        },
+        {
+          "id": "chk_005_1",
+          "text": "Legal clause compliance review 2",
+          "completed": true
+        },
+        {
+          "id": "chk_005_2",
+          "text": "Legal clause compliance review 3",
+          "completed": true
+        },
+        {
+          "id": "chk_005_3",
+          "text": "Legal clause compliance review 4",
+          "completed": true
+        },
+        {
+          "id": "chk_005_4",
+          "text": "Legal clause compliance review 5",
+          "completed": true
+        },
+        {
+          "id": "chk_005_5",
+          "text": "Legal clause compliance review 6",
+          "completed": false
+        },
+        {
+          "id": "chk_005_6",
+          "text": "Legal clause compliance review 7",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 8,
+      "commentsCount": 1,
+      "order": 2,
+      "createdAt": "2026-10-25T14:00:00.000Z",
+      "updatedAt": "2026-11-01T18:45:00.000Z"
+    },
+    {
+      "_id": "task_006",
+      "title": "Run accessibility tests on login",
+      "description": "Audit screen reader announcements, color contrast compliance, and tab order.",
+      "status": "review",
+      "category": "QA",
+      "priority": "medium",
+      "dueDate": "2026-11-08",
+      "projectId": "proj_smart_dashboard",
+      "assigneeId": "user_elena",
+      "assigneeIds": [
+        "user_elena"
+      ],
+      "tags": [
+        "QA",
+        "Accessibility"
+      ],
+      "checklist": [
+        {
+          "id": "chk_006_0",
+          "text": "Audit WCAG 2.1 criterion 1",
+          "completed": true
+        },
+        {
+          "id": "chk_006_1",
+          "text": "Audit WCAG 2.1 criterion 2",
+          "completed": true
+        },
+        {
+          "id": "chk_006_2",
+          "text": "Audit WCAG 2.1 criterion 3",
+          "completed": true
+        },
+        {
+          "id": "chk_006_3",
+          "text": "Audit WCAG 2.1 criterion 4",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 5,
+      "commentsCount": 0,
+      "order": 0,
+      "createdAt": "2026-10-24T10:00:00.000Z",
+      "updatedAt": "2026-10-30T16:00:00.000Z"
+    },
+    {
+      "_id": "task_007",
+      "title": "Write UI design trends article",
+      "description": "Publish quarterly publication covering modern clean typography, zero-pill discipline, and micro-interactions.",
+      "status": "review",
+      "category": "Marketing",
+      "priority": "low",
+      "dueDate": "2026-11-05",
+      "projectId": "proj_smart_dashboard",
+      "assigneeId": "user_brilyan",
+      "assigneeIds": [
+        "user_brilyan"
+      ],
+      "tags": [
+        "Marketing",
+        "Editorial"
+      ],
+      "checklist": [
+        {
+          "id": "chk_007_0",
+          "text": "Draft section paragraph 1",
+          "completed": true
+        },
+        {
+          "id": "chk_007_1",
+          "text": "Draft section paragraph 2",
+          "completed": true
+        },
+        {
+          "id": "chk_007_2",
+          "text": "Draft section paragraph 3",
+          "completed": true
+        },
+        {
+          "id": "chk_007_3",
+          "text": "Draft section paragraph 4",
+          "completed": true
+        },
+        {
+          "id": "chk_007_4",
+          "text": "Draft section paragraph 5",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 6,
+      "commentsCount": 0,
+      "order": 1,
+      "createdAt": "2026-10-30T16:20:00.000Z",
+      "updatedAt": "2026-10-30T16:20:00.000Z"
+    },
+    {
+      "_id": "task_008",
+      "title": "Reach out to design reviewers",
+      "description": "Share modern responsive web dashboard design wireframe interface preview with external design partners.",
+      "status": "review",
+      "category": "Design",
+      "priority": "medium",
+      "dueDate": "2026-11-03",
+      "projectId": "proj_smart_dashboard",
+      "assigneeId": "user_brilyan",
+      "assigneeIds": [
+        "user_brilyan",
+        "user_elena"
+      ],
+      "tags": [
+        "Design",
+        "Feedback"
+      ],
+      "checklist": [
+        {
+          "id": "chk_008_0",
+          "text": "Collect design feedback note 1",
+          "completed": true
+        },
+        {
+          "id": "chk_008_1",
+          "text": "Collect design feedback note 2",
+          "completed": true
+        },
+        {
+          "id": "chk_008_2",
+          "text": "Collect design feedback note 3",
+          "completed": true
+        },
+        {
+          "id": "chk_008_3",
+          "text": "Collect design feedback note 4",
+          "completed": true
+        },
+        {
+          "id": "chk_008_4",
+          "text": "Collect design feedback note 5",
+          "completed": true
+        },
+        {
+          "id": "chk_008_5",
+          "text": "Collect design feedback note 6",
+          "completed": true
+        },
+        {
+          "id": "chk_008_6",
+          "text": "Collect design feedback note 7",
+          "completed": true
+        },
+        {
+          "id": "chk_008_7",
+          "text": "Collect design feedback note 8",
+          "completed": true
+        },
+        {
+          "id": "chk_008_8",
+          "text": "Collect design feedback note 9",
+          "completed": false
+        },
+        {
+          "id": "chk_008_9",
+          "text": "Collect design feedback note 10",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 10,
+      "commentsCount": 3,
+      "imageAttachment": "/src/assets/images/mockup_ui_wireframe_2_1793618481811.jpg",
+      "order": 2,
+      "createdAt": "2026-10-31T14:10:00.000Z",
+      "updatedAt": "2026-10-31T14:10:00.000Z"
+    },
+    {
+      "_id": "task_009",
+      "title": "Finalize brand typography system",
+      "description": "Define type scale, font pairings, and responsive fluid type clamps.",
+      "status": "done",
+      "category": "Design",
+      "priority": "high",
+      "dueDate": "2026-11-07",
+      "projectId": "proj_smart_dashboard",
+      "assigneeId": "user_brilyan",
+      "assigneeIds": [
+        "user_brilyan",
+        "user_alex"
+      ],
+      "tags": [
+        "Design",
+        "Typography"
+      ],
+      "checklist": [
+        {
+          "id": "chk_009_0",
+          "text": "Spec font weight token 1",
+          "completed": true
+        },
+        {
+          "id": "chk_009_1",
+          "text": "Spec font weight token 2",
+          "completed": true
+        },
+        {
+          "id": "chk_009_2",
+          "text": "Spec font weight token 3",
+          "completed": true
+        },
+        {
+          "id": "chk_009_3",
+          "text": "Spec font weight token 4",
+          "completed": true
+        },
+        {
+          "id": "chk_009_4",
+          "text": "Spec font weight token 5",
+          "completed": true
+        }
+      ],
+      "estimatedHours": 12,
+      "commentsCount": 2,
+      "order": 0,
+      "createdAt": "2026-11-01T09:30:00.000Z",
+      "updatedAt": "2026-11-01T09:30:00.000Z"
+    },
+    {
+      "_id": "task_010",
+      "title": "Design desktop wireframes",
+      "description": "High-fidelity wireframes for overview KPIs, chart cards, and interactive board columns.",
+      "status": "done",
+      "category": "Design",
+      "priority": "high",
+      "dueDate": "2026-11-06",
+      "projectId": "proj_smart_dashboard",
+      "assigneeId": "user_brilyan",
+      "assigneeIds": [
+        "user_brilyan",
+        "user_elena",
+        "user_marcus"
+      ],
+      "tags": [
+        "Design",
+        "Wireframes"
+      ],
+      "checklist": [
+        {
+          "id": "chk_010_0",
+          "text": "Wireframe desktop viewport screen 1",
+          "completed": true
+        },
+        {
+          "id": "chk_010_1",
+          "text": "Wireframe desktop viewport screen 2",
+          "completed": true
+        },
+        {
+          "id": "chk_010_2",
+          "text": "Wireframe desktop viewport screen 3",
+          "completed": true
+        },
+        {
+          "id": "chk_010_3",
+          "text": "Wireframe desktop viewport screen 4",
+          "completed": true
+        }
+      ],
+      "estimatedHours": 16,
+      "commentsCount": 7,
+      "imageAttachment": "/src/assets/images/mockup_ui_wireframe_1_1793618482365.jpg",
+      "order": 1,
+      "createdAt": "2026-10-26T13:00:00.000Z",
+      "updatedAt": "2026-11-02T01:15:00.000Z"
+    },
+    {
+      "_id": "task_011",
+      "title": "Map out user offboarding steps",
+      "description": "Document account deletion grace period, data export packages, and subscription cancellation surveys.",
+      "status": "done",
+      "category": "Research",
+      "priority": "medium",
+      "dueDate": "2026-11-07",
+      "projectId": "proj_smart_dashboard",
+      "assigneeId": "user_marcus",
+      "assigneeIds": [
+        "user_marcus",
+        "user_alex"
+      ],
+      "tags": [
+        "Research",
+        "UX"
+      ],
+      "checklist": [
+        {
+          "id": "chk_011_0",
+          "text": "Step requirement specification 1",
+          "completed": true
+        },
+        {
+          "id": "chk_011_1",
+          "text": "Step requirement specification 2",
+          "completed": true
+        },
+        {
+          "id": "chk_011_2",
+          "text": "Step requirement specification 3",
+          "completed": true
+        },
+        {
+          "id": "chk_011_3",
+          "text": "Step requirement specification 4",
+          "completed": true
+        },
+        {
+          "id": "chk_011_4",
+          "text": "Step requirement specification 5",
+          "completed": true
+        },
+        {
+          "id": "chk_011_5",
+          "text": "Step requirement specification 6",
+          "completed": true
+        },
+        {
+          "id": "chk_011_6",
+          "text": "Step requirement specification 7",
+          "completed": true
+        },
+        {
+          "id": "chk_011_7",
+          "text": "Step requirement specification 8",
+          "completed": true
+        },
+        {
+          "id": "chk_011_8",
+          "text": "Step requirement specification 9",
+          "completed": true
+        }
+      ],
+      "estimatedHours": 9,
+      "commentsCount": 0,
+      "order": 2,
+      "createdAt": "2026-10-28T09:00:00.000Z",
+      "updatedAt": "2026-11-01T12:00:00.000Z"
+    },
+    {
+      "_id": "fleet_001",
+      "title": "Calibrate OBD-II vehicle telemetry parser",
+      "description": "Parse live CAN bus diagnostic codes, throttle position, and engine temperature streams with 50ms buffer window.",
+      "status": "todo",
+      "category": "Backend",
+      "priority": "high",
+      "dueDate": "2026-11-06",
+      "projectId": "proj_fleet",
+      "assigneeId": "user_alex",
+      "assigneeIds": [
+        "user_alex"
+      ],
+      "tags": [
+        "IoT",
+        "Telemetry"
+      ],
+      "checklist": [
+        {
+          "id": "chk_fl_01_0",
+          "text": "Calibrate diagnostic parameter 1",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_01_1",
+          "text": "Calibrate diagnostic parameter 2",
+          "completed": false
+        },
+        {
+          "id": "chk_fl_01_2",
+          "text": "Calibrate diagnostic parameter 3",
+          "completed": false
+        },
+        {
+          "id": "chk_fl_01_3",
+          "text": "Calibrate diagnostic parameter 4",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 10,
+      "commentsCount": 1,
+      "order": 0,
+      "createdAt": "2026-10-29T10:00:00.000Z",
+      "updatedAt": "2026-11-01T14:00:00.000Z"
+    },
+    {
+      "_id": "fleet_002",
+      "title": "Driver hours of service compliance check",
+      "description": "Enforce mandatory rest cycle calculations and automated Department of Transportation audit log exports.",
+      "status": "todo",
+      "category": "Legal",
+      "priority": "medium",
+      "dueDate": "2026-11-07",
+      "projectId": "proj_fleet",
+      "assigneeId": "user_marcus",
+      "assigneeIds": [
+        "user_marcus"
+      ],
+      "tags": [
+        "Compliance",
+        "DOT"
+      ],
+      "checklist": [
+        {
+          "id": "chk_fl_02_0",
+          "text": "Verify rest interval rule 1",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_02_1",
+          "text": "Verify rest interval rule 2",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_02_2",
+          "text": "Verify rest interval rule 3",
+          "completed": false
+        },
+        {
+          "id": "chk_fl_02_3",
+          "text": "Verify rest interval rule 4",
+          "completed": false
+        },
+        {
+          "id": "chk_fl_02_4",
+          "text": "Verify rest interval rule 5",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 8,
+      "commentsCount": 0,
+      "order": 1,
+      "createdAt": "2026-10-30T11:00:00.000Z",
+      "updatedAt": "2026-10-30T11:00:00.000Z"
+    },
+    {
+      "_id": "fleet_003",
+      "title": "Implement turn-by-turn route dispatch algorithm",
+      "description": "Dynamic waypoint re-routing based on live traffic congestion and bridge height restrictions.",
+      "status": "in_progress",
+      "category": "Backend",
+      "priority": "high",
+      "dueDate": "2026-11-04",
+      "projectId": "proj_fleet",
+      "assigneeId": "user_elena",
+      "assigneeIds": [
+        "user_elena",
+        "user_alex"
+      ],
+      "tags": [
+        "Routing",
+        "GIS"
+      ],
+      "checklist": [
+        {
+          "id": "chk_fl_03_0",
+          "text": "Algorithm routing test case 1",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_03_1",
+          "text": "Algorithm routing test case 2",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_03_2",
+          "text": "Algorithm routing test case 3",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_03_3",
+          "text": "Algorithm routing test case 4",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_03_4",
+          "text": "Algorithm routing test case 5",
+          "completed": false
+        },
+        {
+          "id": "chk_fl_03_5",
+          "text": "Algorithm routing test case 6",
+          "completed": false
+        },
+        {
+          "id": "chk_fl_03_6",
+          "text": "Algorithm routing test case 7",
+          "completed": false
+        },
+        {
+          "id": "chk_fl_03_7",
+          "text": "Algorithm routing test case 8",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 16,
+      "commentsCount": 3,
+      "order": 0,
+      "createdAt": "2026-10-27T09:00:00.000Z",
+      "updatedAt": "2026-11-01T16:00:00.000Z"
+    },
+    {
+      "_id": "fleet_004",
+      "title": "Design real-time fleet map vehicle markers",
+      "description": "Smooth SVG vehicle orientation arrows, clustering for 500+ simultaneous vehicles, and status badges.",
+      "status": "in_progress",
+      "category": "Design",
+      "priority": "medium",
+      "dueDate": "2026-11-05",
+      "projectId": "proj_fleet",
+      "assigneeId": "user_brilyan",
+      "assigneeIds": [
+        "user_brilyan",
+        "user_elena"
+      ],
+      "tags": [
+        "Design",
+        "Maps"
+      ],
+      "checklist": [
+        {
+          "id": "chk_fl_04_0",
+          "text": "Map marker vector states 1",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_04_1",
+          "text": "Map marker vector states 2",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_04_2",
+          "text": "Map marker vector states 3",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_04_3",
+          "text": "Map marker vector states 4",
+          "completed": false
+        },
+        {
+          "id": "chk_fl_04_4",
+          "text": "Map marker vector states 5",
+          "completed": false
+        },
+        {
+          "id": "chk_fl_04_5",
+          "text": "Map marker vector states 6",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 12,
+      "commentsCount": 1,
+      "imageAttachment": "/src/assets/images/mockup_ui_wireframe_2_1793618481811.jpg",
+      "order": 1,
+      "createdAt": "2026-10-31T10:00:00.000Z",
+      "updatedAt": "2026-11-01T12:00:00.000Z"
+    },
+    {
+      "_id": "fleet_005",
+      "title": "Bench test geofence alert webhook latency",
+      "description": "Measure polygon entry/exit trigger times under simulated load of 10,000 active delivery vehicles.",
+      "status": "review",
+      "category": "QA",
+      "priority": "high",
+      "dueDate": "2026-11-03",
+      "projectId": "proj_fleet",
+      "assigneeId": "user_alex",
+      "assigneeIds": [
+        "user_alex"
+      ],
+      "tags": [
+        "QA",
+        "Performance"
+      ],
+      "checklist": [
+        {
+          "id": "chk_fl_05_0",
+          "text": "Bench latency test 1",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_05_1",
+          "text": "Bench latency test 2",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_05_2",
+          "text": "Bench latency test 3",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_05_3",
+          "text": "Bench latency test 4",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 6,
+      "commentsCount": 2,
+      "order": 0,
+      "createdAt": "2026-10-26T14:00:00.000Z",
+      "updatedAt": "2026-11-01T18:00:00.000Z"
+    },
+    {
+      "_id": "fleet_006",
+      "title": "Integrate fuel sensor CAN bus protocols",
+      "description": "Connect direct fuel float sensors to detect sudden tank level drops and unauthorized siphon events.",
+      "status": "done",
+      "category": "Backend",
+      "priority": "high",
+      "dueDate": "2026-11-02",
+      "projectId": "proj_fleet",
+      "assigneeId": "user_elena",
+      "assigneeIds": [
+        "user_elena",
+        "user_marcus"
+      ],
+      "tags": [
+        "IoT",
+        "Security"
+      ],
+      "checklist": [
+        {
+          "id": "chk_fl_06_0",
+          "text": "Sensor calibration test 1",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_06_1",
+          "text": "Sensor calibration test 2",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_06_2",
+          "text": "Sensor calibration test 3",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_06_3",
+          "text": "Sensor calibration test 4",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_06_4",
+          "text": "Sensor calibration test 5",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_06_5",
+          "text": "Sensor calibration test 6",
+          "completed": true
+        }
+      ],
+      "estimatedHours": 14,
+      "commentsCount": 4,
+      "order": 0,
+      "createdAt": "2026-10-24T08:00:00.000Z",
+      "updatedAt": "2026-11-01T11:00:00.000Z"
+    },
+    {
+      "_id": "fleet_007",
+      "title": "Fleet driver mobile inspection checklist",
+      "description": "Digital vehicle pre-trip inspection UI with tire pressure, oil level, and brake test signoffs.",
+      "status": "done",
+      "category": "Design",
+      "priority": "medium",
+      "dueDate": "2026-11-01",
+      "projectId": "proj_fleet",
+      "assigneeId": "user_brilyan",
+      "assigneeIds": [
+        "user_brilyan"
+      ],
+      "tags": [
+        "Mobile",
+        "UI"
+      ],
+      "checklist": [
+        {
+          "id": "chk_fl_07_0",
+          "text": "Inspection question schema 1",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_07_1",
+          "text": "Inspection question schema 2",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_07_2",
+          "text": "Inspection question schema 3",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_07_3",
+          "text": "Inspection question schema 4",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_07_4",
+          "text": "Inspection question schema 5",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_07_5",
+          "text": "Inspection question schema 6",
+          "completed": true
+        },
+        {
+          "id": "chk_fl_07_6",
+          "text": "Inspection question schema 7",
+          "completed": true
+        }
+      ],
+      "estimatedHours": 8,
+      "commentsCount": 2,
+      "imageAttachment": "/src/assets/images/mockup_ui_wireframe_1_1793618482365.jpg",
+      "order": 1,
+      "createdAt": "2026-10-25T10:00:00.000Z",
+      "updatedAt": "2026-10-31T15:00:00.000Z"
+    },
+    {
+      "_id": "fin_001",
+      "title": "Automate tax rate calculations for EU transactions",
+      "description": "Integrate dynamic VAT validation based on customer business registration numbers across all EU states.",
+      "status": "todo",
+      "category": "Legal",
+      "priority": "high",
+      "dueDate": "2026-11-07",
+      "projectId": "proj_finance",
+      "assigneeId": "user_marcus",
+      "assigneeIds": [
+        "user_marcus"
+      ],
+      "tags": [
+        "Tax",
+        "VAT"
+      ],
+      "checklist": [
+        {
+          "id": "chk_fn_01_0",
+          "text": "EU member state VAT test 1",
+          "completed": true
+        },
+        {
+          "id": "chk_fn_01_1",
+          "text": "EU member state VAT test 2",
+          "completed": true
+        },
+        {
+          "id": "chk_fn_01_2",
+          "text": "EU member state VAT test 3",
+          "completed": false
+        },
+        {
+          "id": "chk_fn_01_3",
+          "text": "EU member state VAT test 4",
+          "completed": false
+        },
+        {
+          "id": "chk_fn_01_4",
+          "text": "EU member state VAT test 5",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 10,
+      "commentsCount": 2,
+      "order": 0,
+      "createdAt": "2026-10-30T10:00:00.000Z",
+      "updatedAt": "2026-11-01T10:00:00.000Z"
+    },
+    {
+      "_id": "fin_002",
+      "title": "Implement quarterly revenue forecast projection",
+      "description": "Run Monte Carlo simulations on recurring SaaS annual subscriptions with historical churn weights.",
+      "status": "todo",
+      "category": "Research",
+      "priority": "medium",
+      "dueDate": "2026-11-08",
+      "projectId": "proj_finance",
+      "assigneeId": "user_marcus",
+      "assigneeIds": [
+        "user_marcus",
+        "user_alex"
+      ],
+      "tags": [
+        "Analytics",
+        "Finance"
+      ],
+      "checklist": [
+        {
+          "id": "chk_fn_02_0",
+          "text": "Forecast sensitivity test 1",
+          "completed": true
+        },
+        {
+          "id": "chk_fn_02_1",
+          "text": "Forecast sensitivity test 2",
+          "completed": true
+        },
+        {
+          "id": "chk_fn_02_2",
+          "text": "Forecast sensitivity test 3",
+          "completed": false
+        },
+        {
+          "id": "chk_fn_02_3",
+          "text": "Forecast sensitivity test 4",
+          "completed": false
+        },
+        {
+          "id": "chk_fn_02_4",
+          "text": "Forecast sensitivity test 5",
+          "completed": false
+        },
+        {
+          "id": "chk_fn_02_5",
+          "text": "Forecast sensitivity test 6",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 14,
+      "commentsCount": 1,
+      "order": 1,
+      "createdAt": "2026-10-31T09:00:00.000Z",
+      "updatedAt": "2026-10-31T09:00:00.000Z"
+    },
+    {
+      "_id": "fin_003",
+      "title": "Design multi-currency billing breakdown table",
+      "description": "Responsive financial ledger tables with USD, EUR, GBP, and JPY converted totals with exchange rate stamps.",
+      "status": "in_progress",
+      "category": "Design",
+      "priority": "high",
+      "dueDate": "2026-11-04",
+      "projectId": "proj_finance",
+      "assigneeId": "user_brilyan",
+      "assigneeIds": [
+        "user_brilyan",
+        "user_elena"
+      ],
+      "tags": [
+        "Design",
+        "Tables"
+      ],
+      "checklist": [
+        {
+          "id": "chk_fn_03_0",
+          "text": "Table column responsive state 1",
+          "completed": true
+        },
+        {
+          "id": "chk_fn_03_1",
+          "text": "Table column responsive state 2",
+          "completed": true
+        },
+        {
+          "id": "chk_fn_03_2",
+          "text": "Table column responsive state 3",
+          "completed": true
+        },
+        {
+          "id": "chk_fn_03_3",
+          "text": "Table column responsive state 4",
+          "completed": true
+        },
+        {
+          "id": "chk_fn_03_4",
+          "text": "Table column responsive state 5",
+          "completed": false
+        },
+        {
+          "id": "chk_fn_03_5",
+          "text": "Table column responsive state 6",
+          "completed": false
+        },
+        {
+          "id": "chk_fn_03_6",
+          "text": "Table column responsive state 7",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 12,
+      "commentsCount": 4,
+      "imageAttachment": "/src/assets/images/mockup_ui_wireframe_1_1793618482365.jpg",
+      "order": 0,
+      "createdAt": "2026-10-27T11:00:00.000Z",
+      "updatedAt": "2026-11-01T15:00:00.000Z"
+    },
+    {
+      "_id": "fin_004",
+      "title": "Webhook handler for failed subscription renewal",
+      "description": "Smart dunning process triggering automated customer emails with card update links before access cutoff.",
+      "status": "in_progress",
+      "category": "Backend",
+      "priority": "high",
+      "dueDate": "2026-11-05",
+      "projectId": "proj_finance",
+      "assigneeId": "user_alex",
+      "assigneeIds": [
+        "user_alex"
+      ],
+      "tags": [
+        "Stripe",
+        "Billing"
+      ],
+      "checklist": [
+        {
+          "id": "chk_fn_04_0",
+          "text": "Dunning retry interval test 1",
+          "completed": true
+        },
+        {
+          "id": "chk_fn_04_1",
+          "text": "Dunning retry interval test 2",
+          "completed": true
+        },
+        {
+          "id": "chk_fn_04_2",
+          "text": "Dunning retry interval test 3",
+          "completed": false
+        },
+        {
+          "id": "chk_fn_04_3",
+          "text": "Dunning retry interval test 4",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 8,
+      "commentsCount": 2,
+      "order": 1,
+      "createdAt": "2026-10-29T14:00:00.000Z",
+      "updatedAt": "2026-11-01T17:00:00.000Z"
+    },
+    {
+      "_id": "fin_005",
+      "title": "Audit SOC2 financial transaction log trails",
+      "description": "Verify tamper-evident write-once cryptographic hashes on every debit/credit database mutation.",
+      "status": "review",
+      "category": "QA",
+      "priority": "high",
+      "dueDate": "2026-11-03",
+      "projectId": "proj_finance",
+      "assigneeId": "user_elena",
+      "assigneeIds": [
+        "user_elena"
+      ],
+      "tags": [
+        "Security",
+        "Compliance"
+      ],
+      "checklist": [
+        {
+          "id": "chk_fn_05_0",
+          "text": "Ledger hash verification test 1",
+          "completed": true
+        },
+        {
+          "id": "chk_fn_05_1",
+          "text": "Ledger hash verification test 2",
+          "completed": true
+        },
+        {
+          "id": "chk_fn_05_2",
+          "text": "Ledger hash verification test 3",
+          "completed": true
+        },
+        {
+          "id": "chk_fn_05_3",
+          "text": "Ledger hash verification test 4",
+          "completed": true
+        },
+        {
+          "id": "chk_fn_05_4",
+          "text": "Ledger hash verification test 5",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 6,
+      "commentsCount": 1,
+      "order": 0,
+      "createdAt": "2026-10-26T12:00:00.000Z",
+      "updatedAt": "2026-11-01T16:00:00.000Z"
+    },
+    {
+      "_id": "fin_006",
+      "title": "Export invoice ledger CSV with tax breakdown",
+      "description": "High-speed streaming CSV generator supporting 100,000+ line items without memory spikes.",
+      "status": "done",
+      "category": "Backend",
+      "priority": "medium",
+      "dueDate": "2026-11-02",
+      "projectId": "proj_finance",
+      "assigneeId": "user_alex",
+      "assigneeIds": [
+        "user_alex",
+        "user_marcus"
+      ],
+      "tags": [
+        "CSV",
+        "Export"
+      ],
+      "checklist": [
+        {
+          "id": "chk_fn_06_0",
+          "text": "CSV streaming test 1",
+          "completed": true
+        },
+        {
+          "id": "chk_fn_06_1",
+          "text": "CSV streaming test 2",
+          "completed": true
+        },
+        {
+          "id": "chk_fn_06_2",
+          "text": "CSV streaming test 3",
+          "completed": true
+        }
+      ],
+      "estimatedHours": 6,
+      "commentsCount": 1,
+      "order": 0,
+      "createdAt": "2026-10-25T11:00:00.000Z",
+      "updatedAt": "2026-10-31T18:00:00.000Z"
+    },
+    {
+      "_id": "fin_007",
+      "title": "Redesign payment method selector dialog",
+      "description": "Streamlined checkout modal for credit card, Apple Pay, Google Pay, and SEPA direct debit.",
+      "status": "done",
+      "category": "Design",
+      "priority": "medium",
+      "dueDate": "2026-10-31",
+      "projectId": "proj_finance",
+      "assigneeId": "user_brilyan",
+      "assigneeIds": [
+        "user_brilyan"
+      ],
+      "tags": [
+        "UI",
+        "Checkout"
+      ],
+      "checklist": [
+        {
+          "id": "chk_fn_07_0",
+          "text": "Payment UI state validation 1",
+          "completed": true
+        },
+        {
+          "id": "chk_fn_07_1",
+          "text": "Payment UI state validation 2",
+          "completed": true
+        },
+        {
+          "id": "chk_fn_07_2",
+          "text": "Payment UI state validation 3",
+          "completed": true
+        },
+        {
+          "id": "chk_fn_07_3",
+          "text": "Payment UI state validation 4",
+          "completed": true
+        },
+        {
+          "id": "chk_fn_07_4",
+          "text": "Payment UI state validation 5",
+          "completed": true
+        }
+      ],
+      "estimatedHours": 10,
+      "commentsCount": 3,
+      "imageAttachment": "/src/assets/images/mockup_ui_wireframe_2_1793618481811.jpg",
+      "order": 1,
+      "createdAt": "2026-10-23T09:00:00.000Z",
+      "updatedAt": "2026-10-30T14:00:00.000Z"
+    },
+    {
+      "_id": "job_001",
+      "title": "Automated resume PDF skills extractor pipeline",
+      "description": "Extract technical competencies, years of experience, and educational background from submitted CV files.",
+      "status": "todo",
+      "category": "Backend",
+      "priority": "high",
+      "dueDate": "2026-11-06",
+      "projectId": "proj_job_seeker",
+      "assigneeId": "user_alex",
+      "assigneeIds": [
+        "user_alex"
+      ],
+      "tags": [
+        "AI",
+        "Parsing"
+      ],
+      "checklist": [
+        {
+          "id": "chk_jb_01_0",
+          "text": "Resume parser benchmark test 1",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_01_1",
+          "text": "Resume parser benchmark test 2",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_01_2",
+          "text": "Resume parser benchmark test 3",
+          "completed": false
+        },
+        {
+          "id": "chk_jb_01_3",
+          "text": "Resume parser benchmark test 4",
+          "completed": false
+        },
+        {
+          "id": "chk_jb_01_4",
+          "text": "Resume parser benchmark test 5",
+          "completed": false
+        },
+        {
+          "id": "chk_jb_01_5",
+          "text": "Resume parser benchmark test 6",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 12,
+      "commentsCount": 2,
+      "order": 0,
+      "createdAt": "2026-10-30T09:00:00.000Z",
+      "updatedAt": "2026-11-01T11:00:00.000Z"
+    },
+    {
+      "_id": "job_002",
+      "title": "Calendar invite synchronization for panel interviews",
+      "description": "Auto-detect mutual availability across 4 interviewers and generate Google Meet conference links.",
+      "status": "todo",
+      "category": "QA",
+      "priority": "medium",
+      "dueDate": "2026-11-07",
+      "projectId": "proj_job_seeker",
+      "assigneeId": "user_elena",
+      "assigneeIds": [
+        "user_elena"
+      ],
+      "tags": [
+        "Calendar",
+        "Interviews"
+      ],
+      "checklist": [
+        {
+          "id": "chk_jb_02_0",
+          "text": "Timezone conflict test 1",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_02_1",
+          "text": "Timezone conflict test 2",
+          "completed": false
+        },
+        {
+          "id": "chk_jb_02_2",
+          "text": "Timezone conflict test 3",
+          "completed": false
+        },
+        {
+          "id": "chk_jb_02_3",
+          "text": "Timezone conflict test 4",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 8,
+      "commentsCount": 0,
+      "order": 1,
+      "createdAt": "2026-10-31T11:00:00.000Z",
+      "updatedAt": "2026-10-31T11:00:00.000Z"
+    },
+    {
+      "_id": "job_003",
+      "title": "Design candidate evaluation scorecard matrix",
+      "description": "Structured rubric ratings for system design, coding proficiency, and values alignment.",
+      "status": "in_progress",
+      "category": "Design",
+      "priority": "high",
+      "dueDate": "2026-11-04",
+      "projectId": "proj_job_seeker",
+      "assigneeId": "user_brilyan",
+      "assigneeIds": [
+        "user_brilyan",
+        "user_marcus"
+      ],
+      "tags": [
+        "Design",
+        "Rubric"
+      ],
+      "checklist": [
+        {
+          "id": "chk_jb_03_0",
+          "text": "Scorecard criteria section 1",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_03_1",
+          "text": "Scorecard criteria section 2",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_03_2",
+          "text": "Scorecard criteria section 3",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_03_3",
+          "text": "Scorecard criteria section 4",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_03_4",
+          "text": "Scorecard criteria section 5",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_03_5",
+          "text": "Scorecard criteria section 6",
+          "completed": false
+        },
+        {
+          "id": "chk_jb_03_6",
+          "text": "Scorecard criteria section 7",
+          "completed": false
+        },
+        {
+          "id": "chk_jb_03_7",
+          "text": "Scorecard criteria section 8",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 14,
+      "commentsCount": 5,
+      "imageAttachment": "/src/assets/images/mockup_ui_wireframe_1_1793618482365.jpg",
+      "order": 0,
+      "createdAt": "2026-10-28T10:00:00.000Z",
+      "updatedAt": "2026-11-01T16:00:00.000Z"
+    },
+    {
+      "_id": "job_004",
+      "title": "Candidate salary expectation benchmark filters",
+      "description": "Interactive slider filters matching candidate compensation bands against approved department hiring budgets.",
+      "status": "in_progress",
+      "category": "Research",
+      "priority": "medium",
+      "dueDate": "2026-11-05",
+      "projectId": "proj_job_seeker",
+      "assigneeId": "user_marcus",
+      "assigneeIds": [
+        "user_marcus",
+        "user_alex"
+      ],
+      "tags": [
+        "HR",
+        "Compensation"
+      ],
+      "checklist": [
+        {
+          "id": "chk_jb_04_0",
+          "text": "Salary band validation 1",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_04_1",
+          "text": "Salary band validation 2",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_04_2",
+          "text": "Salary band validation 3",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_04_3",
+          "text": "Salary band validation 4",
+          "completed": false
+        },
+        {
+          "id": "chk_jb_04_4",
+          "text": "Salary band validation 5",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 6,
+      "commentsCount": 1,
+      "order": 1,
+      "createdAt": "2026-10-29T13:00:00.000Z",
+      "updatedAt": "2026-10-31T14:00:00.000Z"
+    },
+    {
+      "_id": "job_005",
+      "title": "Candidate NDA automated signature verification",
+      "description": "DocuSign integration checking for signed non-disclosure agreements prior to onsite architecture rounds.",
+      "status": "review",
+      "category": "Legal",
+      "priority": "low",
+      "dueDate": "2026-11-03",
+      "projectId": "proj_job_seeker",
+      "assigneeId": "user_elena",
+      "assigneeIds": [
+        "user_elena"
+      ],
+      "tags": [
+        "Legal",
+        "DocuSign"
+      ],
+      "checklist": [
+        {
+          "id": "chk_jb_05_0",
+          "text": "Signature verification webhook 1",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_05_1",
+          "text": "Signature verification webhook 2",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_05_2",
+          "text": "Signature verification webhook 3",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 4,
+      "commentsCount": 1,
+      "order": 0,
+      "createdAt": "2026-10-27T15:00:00.000Z",
+      "updatedAt": "2026-11-01T10:00:00.000Z"
+    },
+    {
+      "_id": "job_006",
+      "title": "Candidate pipeline stage drag-and-drop board",
+      "description": "Recruiting Kanban board moving applicants from Screen to Technical Round to Final Offer.",
+      "status": "done",
+      "category": "Design",
+      "priority": "high",
+      "dueDate": "2026-11-01",
+      "projectId": "proj_job_seeker",
+      "assigneeId": "user_brilyan",
+      "assigneeIds": [
+        "user_brilyan",
+        "user_elena"
+      ],
+      "tags": [
+        "Design",
+        "Kanban"
+      ],
+      "checklist": [
+        {
+          "id": "chk_jb_06_0",
+          "text": "Pipeline stage transition rule 1",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_06_1",
+          "text": "Pipeline stage transition rule 2",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_06_2",
+          "text": "Pipeline stage transition rule 3",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_06_3",
+          "text": "Pipeline stage transition rule 4",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_06_4",
+          "text": "Pipeline stage transition rule 5",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_06_5",
+          "text": "Pipeline stage transition rule 6",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_06_6",
+          "text": "Pipeline stage transition rule 7",
+          "completed": true
+        }
+      ],
+      "estimatedHours": 16,
+      "commentsCount": 6,
+      "imageAttachment": "/src/assets/images/mockup_ui_wireframe_2_1793618481811.jpg",
+      "order": 0,
+      "createdAt": "2026-10-24T11:00:00.000Z",
+      "updatedAt": "2026-10-31T17:00:00.000Z"
+    },
+    {
+      "_id": "job_007",
+      "title": "Send automated rejection with feedback survey",
+      "description": "Respectful, personalized rejection communication inviting feedback on the interview candidate experience.",
+      "status": "done",
+      "category": "Marketing",
+      "priority": "low",
+      "dueDate": "2026-10-30",
+      "projectId": "proj_job_seeker",
+      "assigneeId": "user_marcus",
+      "assigneeIds": [
+        "user_marcus"
+      ],
+      "tags": [
+        "CandidateExperience"
+      ],
+      "checklist": [
+        {
+          "id": "chk_jb_07_0",
+          "text": "Email template feedback check 1",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_07_1",
+          "text": "Email template feedback check 2",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_07_2",
+          "text": "Email template feedback check 3",
+          "completed": true
+        },
+        {
+          "id": "chk_jb_07_3",
+          "text": "Email template feedback check 4",
+          "completed": true
+        }
+      ],
+      "estimatedHours": 5,
+      "commentsCount": 1,
+      "order": 1,
+      "createdAt": "2026-10-25T13:00:00.000Z",
+      "updatedAt": "2026-10-30T16:00:00.000Z"
+    },
+    {
+      "_id": "land_001",
+      "title": "Book architectural photo studio for hardware lineup",
+      "description": "Reserve daylight photo stage with travertine pedestals and overhead scrim softboxes.",
+      "status": "todo",
+      "category": "Design",
+      "priority": "high",
+      "dueDate": "2026-11-06",
+      "projectId": "proj_landing",
+      "assigneeId": "user_brilyan",
+      "assigneeIds": [
+        "user_brilyan"
+      ],
+      "tags": [
+        "Studio",
+        "Production"
+      ],
+      "checklist": [
+        {
+          "id": "chk_lp_1",
+          "text": "Confirm studio booking deposit",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 6,
+      "commentsCount": 1,
+      "order": 0,
+      "createdAt": "2026-10-30T09:00:00.000Z",
+      "updatedAt": "2026-10-30T09:00:00.000Z"
+    },
+    {
+      "_id": "land_002",
+      "title": "Hero banner lighting and shadow direction review",
+      "description": "Select final key lights, rim reflections, and contrast grades for luxury product close-ups.",
+      "status": "in_progress",
+      "category": "Design",
+      "priority": "medium",
+      "dueDate": "2026-11-04",
+      "projectId": "proj_landing",
+      "assigneeId": "user_brilyan",
+      "assigneeIds": [
+        "user_brilyan",
+        "user_elena"
+      ],
+      "tags": [
+        "Lighting",
+        "Creative"
+      ],
+      "checklist": [
+        {
+          "id": "chk_lp_2",
+          "text": "Calibrate key lighting",
+          "completed": true
+        }
+      ],
+      "estimatedHours": 8,
+      "commentsCount": 2,
+      "imageAttachment": "/src/assets/images/mockup_ui_wireframe_1_1793618482365.jpg",
+      "order": 0,
+      "createdAt": "2026-10-28T10:00:00.000Z",
+      "updatedAt": "2026-11-01T15:00:00.000Z"
+    },
+    {
+      "_id": "land_003",
+      "title": "Retouch and color grade hero background assets",
+      "description": "Neutral background cleanups, dust spotting, and 16-bit color exports in Display P3 gamut.",
+      "status": "done",
+      "category": "Marketing",
+      "priority": "medium",
+      "dueDate": "2026-11-01",
+      "projectId": "proj_landing",
+      "assigneeId": "user_marcus",
+      "assigneeIds": [
+        "user_marcus"
+      ],
+      "tags": [
+        "Retouch",
+        "Assets"
+      ],
+      "checklist": [
+        {
+          "id": "chk_lp_3",
+          "text": "Color profile verify",
+          "completed": true
+        }
+      ],
+      "estimatedHours": 12,
+      "commentsCount": 3,
+      "order": 0,
+      "createdAt": "2026-10-25T11:00:00.000Z",
+      "updatedAt": "2026-10-31T17:00:00.000Z"
+    },
+    {
+      "_id": "mob_001",
+      "title": "Implement biometric FaceID & TouchID prompt fallback",
+      "description": "Secure enclave key generation with passcode fallback dialog on iOS and Android BiometricPrompt.",
+      "status": "todo",
+      "category": "Backend",
+      "priority": "high",
+      "dueDate": "2026-11-07",
+      "projectId": "proj_mobile",
+      "assigneeId": "user_alex",
+      "assigneeIds": [
+        "user_alex",
+        "user_elena"
+      ],
+      "tags": [
+        "Biometrics",
+        "Security"
+      ],
+      "checklist": [
+        {
+          "id": "chk_mb_1",
+          "text": "Test TouchID fallback",
+          "completed": false
+        }
+      ],
+      "estimatedHours": 12,
+      "commentsCount": 2,
+      "order": 0,
+      "createdAt": "2026-10-31T09:00:00.000Z",
+      "updatedAt": "2026-10-31T09:00:00.000Z"
+    },
+    {
+      "_id": "mob_002",
+      "title": "Offline SQLite database synchronization queue",
+      "description": "Queue local task edits during network disconnection and push conflict-free batches to Express server.",
+      "status": "in_progress",
+      "category": "Backend",
+      "priority": "high",
+      "dueDate": "2026-11-04",
+      "projectId": "proj_mobile",
+      "assigneeId": "user_elena",
+      "assigneeIds": [
+        "user_elena"
+      ],
+      "tags": [
+        "Offline",
+        "SQLite"
+      ],
+      "checklist": [
+        {
+          "id": "chk_mb_2",
+          "text": "Sync queue test",
+          "completed": true
+        }
+      ],
+      "estimatedHours": 16,
+      "commentsCount": 4,
+      "imageAttachment": "/src/assets/images/mockup_ui_wireframe_2_1793618481811.jpg",
+      "order": 0,
+      "createdAt": "2026-10-28T09:00:00.000Z",
+      "updatedAt": "2026-11-01T16:00:00.000Z"
+    },
+    {
+      "_id": "mob_003",
+      "title": "Native bottom navigation bar with haptic feedback",
+      "description": "Smooth tab transition gestures with UIImpactFeedbackGenerator on card release.",
+      "status": "done",
+      "category": "Design",
+      "priority": "medium",
+      "dueDate": "2026-11-02",
+      "projectId": "proj_mobile",
+      "assigneeId": "user_brilyan",
+      "assigneeIds": [
+        "user_brilyan",
+        "user_marcus"
+      ],
+      "tags": [
+        "Design",
+        "Haptics"
+      ],
+      "checklist": [
+        {
+          "id": "chk_mb_3",
+          "text": "Haptic profile tuning",
+          "completed": true
+        }
+      ],
+      "estimatedHours": 8,
+      "commentsCount": 3,
+      "order": 0,
+      "createdAt": "2026-10-26T10:00:00.000Z",
+      "updatedAt": "2026-11-01T14:00:00.000Z"
+    }
+  ],
+  "projects": [
+    {
+      "_id": "proj_smart_dashboard",
+      "name": "Smart Dashboard Redesign",
+      "description": "Comprehensive UI/UX overhaul of executive analytics and workspace boards",
+      "color": "#4F46E5",
+      "key": "SDR"
+    },
+    {
+      "_id": "proj_fleet",
+      "name": "Fleet Management System",
+      "description": "Real-time vehicle telemetry, driver routing and logistics optimization",
+      "color": "#7C3AED",
+      "key": "FMS"
+    },
+    {
+      "_id": "proj_finance",
+      "name": "Finance Dashboard",
+      "description": "Automated ledger sheets, invoice processing and recurring subscription analytics",
+      "color": "#0284C7",
+      "key": "FIN"
+    },
+    {
+      "_id": "proj_job_seeker",
+      "name": "Job Seeker Admin View",
+      "description": "Talent sourcing pipeline, resume screening and automated interview scheduling",
+      "color": "#D97706",
+      "key": "JSA"
+    },
+    {
+      "_id": "proj_landing",
+      "name": "Landing Page Shoot",
+      "description": "Creative brand photography assets and marketing hero launch campaign",
+      "color": "#DB2777",
+      "key": "LPS"
+    },
+    {
+      "_id": "proj_mobile",
+      "name": "Mobile Project",
+      "description": "Next-generation iOS and Android native workspace apps",
+      "color": "#059669",
+      "key": "MOB"
+    }
+  ],
+  "users": [
+    {
+      "_id": "user_brilyan",
+      "name": "Brilyan Andi Syahbana",
+      "email": "brilyan.andi@zendo.io",
+      "role": "UI/UX Designer",
+      "avatar": "/src/assets/images/avatar_devon_reed_1793617778986.jpg"
+    },
+    {
+      "_id": "user_alex",
+      "name": "Alex Chen",
+      "email": "alex.chen@zendo.io",
+      "role": "Tech Lead",
+      "avatar": "/src/assets/images/avatar_alex_chen_1793617777190.jpg"
+    },
+    {
+      "_id": "user_marcus",
+      "name": "Marcus Vance",
+      "email": "marcus.v@zendo.io",
+      "role": "Product Lead",
+      "avatar": "/src/assets/images/avatar_marcus_vance_1793617778278.jpg"
+    },
+    {
+      "_id": "user_elena",
+      "name": "Elena Rostova",
+      "email": "elena.r@zendo.io",
+      "role": "Staff Architect",
+      "avatar": "/src/assets/images/avatar_elena_rostova_1793617779035.jpg"
+    }
+  ],
+  "meta": {
+    "lastUpdated": "2026-11-02T11:37:27.207Z"
+  }
+}
